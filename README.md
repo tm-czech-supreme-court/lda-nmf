@@ -1,7 +1,7 @@
 # lda-nmf
 Dear visitor,
 
-This is **Topic Modelling of Czech Supreme Court Decisions** repository containing all the relevant data and code for topic modelling of the Czech Supreme Court decisions with latent Dirichlet allocation (LDA) and non-negative matrix factorization (NMF) methods.
+This is **Topic Modelling of Czech Supreme Court Decisions repository** containing all the relevant data and code for topic modelling of the Czech Supreme Court decisions with latent Dirichlet allocation (LDA) and non-negative matrix factorization (NMF) methods.
 
 This repository contains 5 Jupyter notebooks with all the relevant code for preprocessing of documents, training the models and their topics visualization via pyLDAvis using LDA and NMF methods. 
 
